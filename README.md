@@ -12,4 +12,4 @@ Bir grup, tek kutuya anca sığıyorsa vs. sadece tek döküm seçip bir tek onu
 Yayınlanmış sürümleri buradan görebilir ve indirebilirsiniz -> https://github.com/ulvido/sgk-kolionu-release/releases
 
 **KURULUM:**
-Hemen aşağıdan Sgk_Kolionu_Kurulum_win_x64.rar isimli dosyayı indirin ve rar'dan çıkarın. Kurulumu çalıştırın. İşlemleri kendisi yapacak. Sonunda masaüstünüze bir kısayol oluşturacak. Programı bu kısayolla açabilirsiniz.
+Sgk_Kolionu_Kurulum_win_x64.rar isimli dosyayı indirin ve rar'dan çıkarın. Kurulumu çalıştırın. İşlemleri kendisi yapacak. Sonunda masaüstünüze bir kısayol oluşturacak. Programı bu kısayolla açabilirsiniz.
